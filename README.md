@@ -281,11 +281,7 @@ service cloud.firestore {
 
 ---
 
-## 🎓 Academic viva Voce Guide
-For the full **50+ question viva master preparation guide** covering Flutter rendering pipelines, state management tradeoffs, Firestore indexing, async event loops, and security rules, refer to:  
-👉 **[PROJECT_DOCUMENTATION_AND_VIVA_GUIDE.md](PROJECT_DOCUMENTATION_AND_VIVA_GUIDE.md)**
 
----
 
 ## 👤 Author
 - **Nupur Bhoir**  
