@@ -216,7 +216,7 @@ budget_buddy/
 
 ### 2. Clone & Install Dependencies
 ```bash
-git clone https://github.com/nupurbhoir/budget_buddy.git
+git clone https://github.com/Nupurbhoir/budget_buddy-FLUTTER.git
 cd budget_buddy
 flutter pub get
 ```
